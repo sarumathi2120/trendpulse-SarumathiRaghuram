@@ -1,0 +1,88 @@
+post_id,title,category,score,num_comments,author,collected_at
+49890226,AI companies leak data to advertisers [pdf],technology,329,106,damaru2,2026-09-29 21:17:53.269504
+49892175,Without the Hot Air,technology,69,36,0sake_rs,2026-09-29 21:17:53.269540
+49893709,"Unsurprisingly, Meta's new Muse AI agent blatantly ignores users permissions",technology,101,17,dkobia,2026-09-29 21:17:53.269550
+49892958,What makes software development engineering,technology,27,34,ibobev,2026-09-29 21:17:53.269579
+49866783,Software occlusion culling in Block Game,technology,69,4,airhangerf15,2026-09-29 21:17:53.269711
+49895047,Netanyahu claims ability to hack any iPhone and plant false evidence,technology,6,1,gravisultra,2026-09-29 21:17:53.269729
+49882781,MicroLLM Lab – Try 7 tiny LLM's in the browser,technology,265,98,logicallee,2026-09-29 21:17:53.269782
+49855059,"12,000-year-old Göbeklitepe burials explain scattered bones",technology,160,45,yusufaytas,2026-09-29 21:17:53.269795
+49883844,"Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",technology,545,210,firelex,2026-09-29 21:17:53.269811
+49879883,Nvidia wants to put a watchdog chip next to every AI agent,technology,210,277,jonbaer,2026-09-29 21:17:53.269817
+49877678,Does Reddit have an astroturfing problem? What the data suggests,technology,269,350,p-s-v,2026-09-29 21:17:53.269864
+49883471,It's Time to Investigate the AI Labs,technology,562,238,ibobev,2026-09-29 21:17:53.269921
+49879577,Cf: The Agentic CLI for the Cloudflare API,technology,159,80,macleos,2026-09-29 21:17:53.269952
+49862602,Simulating Airband AM Radios,technology,58,5,shellpipe,2026-09-29 21:17:53.270016
+49876148,What would a serious AI product look like?,technology,166,75,lumpa,2026-09-29 21:17:53.270039
+49872883,Nissan's third generation e-POWER powertrain,technology,161,408,mroche,2026-09-29 21:17:53.270068
+49888937,Uncensored and Offensive Security AI Models Benchmark,technology,37,11,soltanov,2026-09-29 21:17:53.270093
+49875913,"Parley: Federated, decentralised chat that speaks plain IRC",technology,321,185,davidcollantes,2026-09-29 21:17:53.270111
+49891721,Mistral CEO says U.S. AI safety debate masks competitors' 'negligence',technology,11,0,cramer4next,2026-09-29 21:17:53.270128
+49873241,Thinking fast and slow in AI: The role of metacognition (2021),technology,175,77,teleforce,2026-09-29 21:17:53.270150
+49861755,"What reversing, modernising old games tells us about the economic impact of AI",technology,129,83,keeda,2026-09-29 21:17:53.270182
+49849409,Writing Efficient C++ Code (2013),technology,173,150,ibobev,2026-09-29 21:17:53.270220
+49886901,"Bluegraph – Explore NOAA buoy data, rebuilt in 3D from measured spectra",technology,16,3,polytap,2026-09-29 21:17:53.270244
+49868753,"Calling the AI bluff: Adding ""Do not guess"" cut made-up claims from 71% to 20%",technology,87,39,FKJ,2026-09-29 21:17:53.270304
+49887963,"AI risk is not sentience by computers, it is negligence by humans",technology,28,5,ianmosher,2026-09-29 21:17:53.270358
+49893509,"America.gov – Whatever you need from government, start here",worldnews,44,13,plesiv,2026-09-29 21:17:55.270920
+49891550,US sanctions force The Netherlands off Microsoft and toward alternative NixOS,worldnews,303,268,mywacaday,2026-09-29 21:17:55.271062
+49869755,Malleable software: Restoring user agency in a world of locked-down apps (2025),worldnews,156,73,evakhoury,2026-09-29 21:17:55.271571
+49891881,Climate is accumulating 4 Hiroshima atomic bombs worth of heat per second,worldnews,43,59,blondie9x,2026-09-29 21:17:55.271599
+49832768,A searchable library of forgotten public-domain film clips from 1915 onward,worldnews,216,28,momentmaker,2026-09-29 21:17:55.272035
+49864642,"Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election",worldnews,469,303,rbanffy,2026-09-29 21:17:55.272242
+49833867,Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design,worldnews,421,142,sidharthkmenon,2026-09-29 21:17:55.272362
+49856665,OpenAI bots meddled with multiple US Government agency sites,worldnews,132,195,Betelbuddy,2026-09-29 21:17:55.272369
+49881711,Protest Against European Parliament Chat Control 1.0 Legislation in Warsaw,worldnews,21,1,latexr,2026-09-29 21:17:55.272420
+49841563,Dutch governments builds alternative for Microsoft based on NixOS,worldnews,1017,581,fjfaase,2026-09-29 21:17:55.272789
+49872468,OpenAI pauses training of latest models after agents probed US Government sites,worldnews,31,3,daniel_iversen,2026-09-29 21:17:55.272803
+49877374,OpenAI Pauses Training Its Most Powerful Models After Agents Target Government,worldnews,15,4,chunky1994,2026-09-29 21:17:55.272889
+49829960,Owners mourn spoiled food after firmware update bricks Samsung smart fridges,worldnews,323,333,nonfamous,2026-09-29 21:17:55.272941
+49883632,The Netherlands is rolling its own NixOS-based software stack after U.S.,worldnews,7,2,sbulaev,2026-09-29 21:17:55.272963
+49811429,Data-only attacks are easier than you think (2024),worldnews,102,45,segfaultbuserr,2026-09-29 21:17:55.273167
+49884214,FAA to Delay 737 MAX 10 Approval over New Software Glitch,worldnews,6,1,JumpCrisscross,2026-09-29 21:17:55.273237
+49811065,Transit rewards,worldnews,258,346,raybb,2026-09-29 21:17:55.273427
+49828409,Starlink ground station in Poland hit by fire in suspected arson attack,worldnews,181,181,giuliomagnifico,2026-09-29 21:17:55.273543
+49832406,GitHub has not removed malicious imitation software after 3 weeks,worldnews,278,119,hermitcrab,2026-09-29 21:17:55.273573
+49835913,August 27 TCRF DDoS Attack Postmortem,worldnews,34,14,panic,2026-09-29 21:17:55.273638
+49860011,New Boeing 737 MAX Software Glitch Could Disrupt Navigation Feature,worldnews,29,1,trimbo,2026-09-29 21:17:55.273710
+49885493,Show HN: Pac-Bench – How well can models one-shot a Pac-Man game?,sports,76,45,thefourthchime,2026-09-29 21:17:57.274688
+49879707,"First DVD player announced Sept 26, 1996",sports,9,0,ibobev,2026-09-29 21:17:57.275340
+49844642,What happens when you analyze your favorite college football team like the CIA?,sports,64,35,adam,2026-09-29 21:17:57.275916
+49849820,Analyzing Frontier Model Progress with My Favourite Game: Prince of Persia,sports,63,43,msephton,2026-09-29 21:17:57.276052
+49836590,The Board Game of the Alpha Nerds (2014),sports,123,65,neonate,2026-09-29 21:17:57.276144
+49849406,Time Measurement in Game Programming,sports,13,0,ibobev,2026-09-29 21:17:57.277319
+49892120,"1 in 8 cancer cases worldwide are caused by infections, study finds",science,76,48,colinprince,2026-09-29 21:17:59.277980
+49859863,The Beatles have permeated research papers across academic disciplines,science,15,11,pseudolus,2026-09-29 21:17:59.278101
+49883536,Scientists solve 1840s space weather mystery,science,118,52,gumby,2026-09-29 21:17:59.278170
+49866951,"In an $80 motel room, a discovery to shed light on the origins of life",science,295,107,danso,2026-09-29 21:17:59.278595
+49839438,"Biology might not be quantum, but its math is quantumlike",science,123,60,pseudolus,2026-09-29 21:17:59.279140
+49881135,How Pew Research Center is – and is not – using AI in our work,science,21,3,hn_acker,2026-09-29 21:17:59.279387
+49880401,The large robotic arm on the International Space Station has stopped working,science,16,3,robin_reala,2026-09-29 21:17:59.279567
+49830606,Google’s Project Suncatcher to put ML infrastructure in space,science,232,544,xnx,2026-09-29 21:17:59.279792
+49872497,Research finds 485 chemicals in US pesticide products linked to breast cancer,science,93,27,Teever,2026-09-29 21:17:59.280069
+49875411,SpaceX's Starship launching to orbit for first time ever today,science,302,358,geox,2026-09-29 21:17:59.280436
+49891769,"Show HN: Jevstiller – Distill Jev into a local model, with a disagreement bound",entertainment,16,3,tgluck,2026-09-29 21:18:01.281306
+49890647,"Show HN: Raven – The harness of harnesses, built for RSI",entertainment,43,34,cyfyifanchen,2026-09-29 21:18:01.281344
+49879645,Updated Google Maps shows destruction of the city of Rafah,entertainment,821,704,slowin,2026-09-29 21:18:01.281434
+49879401,Show HN: HN.watch – Videos of all Hacker News posts,entertainment,203,96,mrborgen,2026-09-29 21:18:01.281506
+49880601,Show HN: Destroy Any Website with Stickman,entertainment,153,37,HugoDz,2026-09-29 21:18:01.281535
+49875801,"Show HN: PaperMono, e-ink fridge magnet shopping list with mobile web page",entertainment,144,61,seamus_c,2026-09-29 21:18:01.281624
+49858756,Show HN: Museum of Numbers,entertainment,27,11,rhl314,2026-09-29 21:18:01.281633
+49875308,Show HN: Free alternative to graphics design giants,entertainment,127,50,sia_xi,2026-09-29 21:18:01.281642
+49869574,Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi,entertainment,311,135,safaelmali,2026-09-29 21:18:01.281768
+49845172,Show HN: Jev Plays Pokémon Red,entertainment,279,123,pancomplex,2026-09-29 21:18:01.281911
+49867775,Show HN: TinyAIArena watch AI agents battle it out,entertainment,117,45,hp6,2026-09-29 21:18:01.282019
+49876760,Show HN: Hntui – A TUI for Hacker News,entertainment,111,65,ahmd-sh,2026-09-29 21:18:01.282065
+49858513,Show HN: Reladraw – A diagram language where you decide where to place things,entertainment,404,119,jpwalsh234,2026-09-29 21:18:01.282200
+49852302,Jury finds Facebook liable for deceiving users in Cambridge Analytica case,entertainment,423,107,pseudolus,2026-09-29 21:18:01.282505
+49881201,Show HN: I'm a dermatologist and I vibe coded a 3D biophysical skin model,entertainment,5,0,sungam,2026-09-29 21:18:01.282530
+49879233,"Show HN: Enterprise Postgres for AI and more, from prototype to production",entertainment,5,0,bonesmoses,2026-09-29 21:18:01.282657
+49849986,Show HN: Ekselio – Loveable for finance workflows (local first),entertainment,41,13,kdautaj,2026-09-29 21:18:01.282710
+49870394,"Show HN: Cartopolis, interactive globe-sized 3D world",entertainment,18,6,jvanveen,2026-09-29 21:18:01.282723
+49844497,Show HN: Hacker Atlas - A map of what Hacker News talks about,entertainment,86,41,andrearitossa,2026-09-29 21:18:01.282897
+49871569,"Show HN: Fusor – Like Vue, but the logic is Rust",entertainment,8,1,andreespirela,2026-09-29 21:18:01.282947
+49886005,"Anthropic's IPO prospectus shows AI vision, surging costs",entertainment,120,125,6thbit,2026-09-29 21:18:01.283233
+49821438,Show HN: AgentRun: DSL to turn agents into workflows,entertainment,51,12,miguelrios,2026-09-29 21:18:01.283276
+49869904,Show HN: A bookshelf of rare company documents and out-of-print tech books,entertainment,11,0,miletus,2026-09-29 21:18:01.283285
+49827375,Show HN: Air-gapped file encryption as self-decrypting HTML page,entertainment,90,32,emurlin,2026-09-29 21:18:01.283299
+49837006,Show HN: Koi.rest – watch some fish and regain your balance,entertainment,227,65,hxii,2026-09-29 21:18:01.283400
